@@ -1,0 +1,10 @@
+ Volume in drive D is Developer
+ Volume Serial Number is 5CE2-78B0
+
+ Directory of D:\YOU TUBE DOWNLOAD\GIT\Workspace\Project1
+
+18/04/2018  10:47 PM    <DIR>          .
+18/04/2018  10:47 PM    <DIR>          ..
+18/04/2018  10:47 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   7,018,962,944 bytes free
